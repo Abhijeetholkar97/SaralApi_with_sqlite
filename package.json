@@ -1,0 +1,17 @@
+{
+  "name": "saral_api",
+  "version": "1.0.0",
+  "description": "\"Saral clone\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "sqlite": "^3.0.3",
+    "sqlite3": "^4.0.6",
+    "fs": "^0.0.2"
+  },
+  "author": "\"Abhijeet Holkar\"",
+  "license": "MIT"
+}
